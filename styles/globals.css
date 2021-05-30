@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.width-fit-content{
+    width: fit-content;
+}
+
+.hide-scroll-bar::-webkit-scrollbar{
+    display: none;
+}
+
+.right-sidebar{
+    max-height: calc(100vh - 4rem);
+}
+
+.hero-section{
+    width: calc(100% - 16rem);
+}
