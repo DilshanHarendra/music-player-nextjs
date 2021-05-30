@@ -3,7 +3,7 @@ import Link from "next/link";
 
 function Header(){
     return(
-        <div className="w-screen  bg-header text-gray-300 flex items-center justify-between absolute top-0 lef-0 z-20 py-5">
+        <div className="w-screen  gradient-header text-gray-300 flex items-center justify-between absolute top-0 lef-0 z-20 py-5">
             <div className="flex items-center">
                 <Link href="/"><div className="px-4">Your Library</div></Link>
                 <Link href="/">

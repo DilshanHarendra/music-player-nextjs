@@ -7,7 +7,7 @@ module.exports = {
       colors: {
         primary:"#282B31",
         sidebar:"#151A20",
-        header:"#1B1F25",
+        header:"#1b1f25",
       },
     },
   },
