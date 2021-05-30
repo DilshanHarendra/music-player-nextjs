@@ -9,7 +9,7 @@ function RightSidebar(){
             <p className="font-bold text-lg"> Friend Activity</p>
 
             <div className="">
-                {[0,1,2,3].map(friend=><FriendActivityCard  key={friend}  />)}
+                {[0,1,2,3,4,5,6,7,8,9].map(friend=><FriendActivityCard  key={friend}  />)}
             </div>
             <button className="border mx-auto block mt-5 px-4 py-1 rounded-full">Find more</button>
 

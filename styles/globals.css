@@ -15,8 +15,7 @@
 }
 
 .hero-section{
-    width: calc(100% - 16rem);
-    min-height: 100vh;
+
     padding-top: 4.5rem;
     background: rgb(21,31,37);
     background: radial-gradient(circle, rgba(21,31,37,0.5242471988795518) 0%, rgba(21,26,32,1) 99%);
@@ -24,4 +23,8 @@
 .gradient-header{
     background: rgb(21,31,37);
     background: linear-gradient(180deg, rgba(21,31,37,0.8323704481792717) 0%, rgba(21,26,32,1) 99%);
+}
+
+.player{
+    margin-top: 25vh;
 }

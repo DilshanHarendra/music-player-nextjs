@@ -5,9 +5,10 @@ module.exports = {
 
     extend: {
       colors: {
-        primary:"#282B31",
+        primary:"#151A20",
         sidebar:"#151A20",
         header:"#1b1f25",
+        menu:'#23272D'
       },
     },
   },

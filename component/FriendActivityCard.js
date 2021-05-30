@@ -9,7 +9,7 @@ function FriendActivityCard(){
                 </svg>
             </div>
             <div className="pl-4 w-full relative  mt-2">
-                <span className="text-xs whitespace-nowrap width-fit-content absolute -top-3 right-5">33 min</span>
+                <span className="whitespace-nowrap width-fit-content absolute -top-3 right-5" style={{fontSize:'8px'}}>33 min</span>
                 <p className="font-semibold text-lg truncate w-9/12 ">Abc Perera perera asd asd</p>
 
                 <p className="text-xs text-gray-300 truncate">country</p>
